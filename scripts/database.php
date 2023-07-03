@@ -5,7 +5,7 @@
         public function __construct()
         {
             try {
-                $this->databaseHandle = new PDO('mysql:host=localhost;dbname=db_products', 'root', '');
+                $this->databaseHandle = new PDO('mysql:host=localhost;dbname=tbl_products', 'root', '');
             }
             catch (PDOException $e) {
                 print("Error: " . $e->getMessage());
