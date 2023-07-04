@@ -1,4 +1,4 @@
-# ScandiWeb's Assignment (Junior Web Developer)
+# ScandiWeb's Assignment (Junior Web Developer position)
 
 ## IMPORTANT NOTE!
 Repository is archived due to completely finished assignment and interview phase.
